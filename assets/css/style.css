@@ -136,7 +136,7 @@ body {
 }
 
 .sr.right {
-  transform: translateX(56px);
+  transform: translateX(-56px);
 }
 
 .sr.scale {
